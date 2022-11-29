@@ -1,0 +1,18 @@
+.continer {
+  text-align: center;
+}
+
+#cnt {
+  font-size: 60px;
+}
+#dec {
+  font-size: 40px;
+  width: 70px;
+}
+#reset {
+  font-size: 40px;
+}
+#inc {
+  font-size: 40px;
+  width: 70px;
+}
